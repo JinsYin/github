@@ -19,3 +19,12 @@ digraph x {
     c->d;
 }
 ```
+
+
+```gv
+digraph x {
+    a->b;
+    b->d;
+    c->d;
+}
+```
