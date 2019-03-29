@@ -1,4 +1,4 @@
-# markdown-with-math
+# Github 功能试验
 
 $$x = 100 * y + z - 10 / 33 + 10 % 3$$
 
