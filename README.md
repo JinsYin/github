@@ -47,8 +47,8 @@ digraph x {
         <th>主板</th>
     </tr>
     <tr>
-        <td><img src=".images/hardware/cpu.png" width="250px" height="150px"></td>
-        <td><img src=".images/hardware/memory.png" width="250px" height="150px"></td>
-        <td><img src=".images/hardware/motherboard.png" width="250px" height="150px"></td>
+        <td><img src=".images/hardware/cpu.png" width="265px" height="200px"></td>
+        <td><img src=".images/hardware/memory.png" width="265px" height="200px"></td>
+        <td><img src=".images/hardware/motherboard.png" width="265px" height="200px"></td>
     </tr>
 </table>
